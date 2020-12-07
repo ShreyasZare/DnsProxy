@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsProxy", "DnsProxy\DnsProxy.csproj", "{6A316C66-672A-49CE-9FFA-FEAA61A483BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A316C66-672A-49CE-9FFA-FEAA61A483BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A316C66-672A-49CE-9FFA-FEAA61A483BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A316C66-672A-49CE-9FFA-FEAA61A483BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A316C66-672A-49CE-9FFA-FEAA61A483BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D525D508-E8C3-487A-88F3-EAF9734194D9}
+	EndGlobalSection
+EndGlobal
